@@ -2,7 +2,7 @@
 
 [ICLR 2024] Official PyTorch implementation of ["Path Choice Matters for Clear Attribution in Path Methods"](https://arxiv.org/abs/2401.10442).
 
-![result](assets\result.png)
+![result](assets/result.png)
 
 ## Citation
 
